@@ -1,0 +1,7 @@
+process:
+1.username input
+2.password input bal
+3.withdrawal
+4.Diposite
+5.Bal Enq
+6.exit
