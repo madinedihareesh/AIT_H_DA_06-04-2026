@@ -38,7 +38,14 @@ l4=list((1,2,3,4,5,6))
 print(l4)
 
 
-a=[1,2,3]
+a=[2,2,3]
 b=[1,2,3,4]
 print(a>b)
+
+
+l=[1,2,3,4,5,6,7,8]
+if 8 in l:
+    print(8,'is available in the list')
+else:
+    print(8,'is not available')    
 
